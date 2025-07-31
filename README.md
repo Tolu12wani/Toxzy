@@ -1,56 +1,59 @@
-<h1 align="center">Hey 👋 I'm Toxzy</h1>
-<p align="center">Cybersecurity Analyst | SOC Intern | Frontend Dev | UI/UX Designer</p>
+<!-- Optional Banner -->
+<!-- ![Banner](https://your-custom-banner-url.com) -->
+
+# Hey 👋 I'm Toxzy
+
+**Cybersecurity Analyst | SOC | Frontend Developer | UI/UX Designer**
+
+---
+
+## 🧰 About Me
+
+I'm **Adegboyega Toluwani**, also known as **Toxzy** — a passionate Cybersecurity Analyst with hands-on experience in threat detection, vulnerability assessment, and frontend development.
+
+I enjoy solving real-world security challenges using tools like Wazuh, Suricata, and OWASP ZAP, and building sleek web apps with React, CSS, and JavaScript.
 
 ---
 
 ## 💼 Featured Projects
 
-### 🔐 Cybersecurity & SOC
+### 🛡️ [Vulnerability Assessment Report – OWASP Juice Shop](https://github.com/Tolu12wani/proj_fut_01)
+Performed security testing on DVWA using **OWASP ZAP**, **Burp Suite**, and **Nikto**.  
+🔗 [📄 View Repo](https://github.com/Tolu12wani/proj_fut_01)
 
-- 🛡️ **Vulnerability Assessment Report (OWASP Juice Shop)**
-  - Tools: OWASP ZAP, Burp Suite, Nikto
-  - [📝 Read Full Report](https://github.com/yourusername/juiceshop-assessment)
 
-- 📊 **SIEM & Threat Detection (Wazuh + Suricata + pfSense)**
-  - [🔗 GitHub Repo](https://github.com/yourusername/soc-lab)
-  - Simulated attacks with port scans, bruteforce & correlation rules
 
-- 🧠 **OSINT Research Case**
-  - [📄 OSINT Report](https://github.com/yourusername/osint-case-study)
+### 🌐 [Portfolio Website](https://tolu12wani.github.io/folio/)
+Personal portfolio built with **Html**, **CSS**,**Javascript** and deployed on **Github**.  
+🔗 [Live Site]([https://tolu12wani.github.io/folio/]) | [[GitHub Repo]](https://tolu12wani.github.io/folio/)
 
 ---
 
-### 💻 Frontend Projects
+## 🛠️ Skills & Tools
 
-- 💬 **Chat App with WebSockets**
-  - React, Node.js, WebSocket
-  - [🔗 View on GitHub](https://github.com/yourusername/chatapp)
+### 🔐 Cybersecurity:
+`Kali Linux`, `Wireshark`, `Nmap`, `Wazuh`, `pfSense`, `Suricata`, `OWASP ZAP`, `Burp Suite`, `Nikto`, `Metasploit`
 
-- 🎨 **UI/UX Case Study - Mobile Banking App**
-  - Designed in Figma
-  - [🔗 See Design](https://www.figma.com/file/yourfileid)
+### 💻 Frontend:
+`HTML`, `CSS`, `JavaScript`, `Bootstrap`
 
-- 🖥️ **Portfolio Website**
-  - Next.js, TailwindCSS
-  - [🌍 Live Site](https://yourdomain.com) | [🔗 GitHub Repo](https://github.com/yourusername/portfolio)
+### ⚙️ Tools:
+`Git`, `GitHub`, `VS Code`, `Linux Terminal`, `TryHackMe`, `Hack The Box`, `Figma`
 
 ---
 
-## 🧰 My Stack
+## 📊 GitHub Stats
 
-**Cybersecurity:** Wireshark, Nmap, Burp, ZAP, Wazuh, Splunk  
-**Frontend Dev:** React, Next.js, Tailwind, TypeScript  
-**Tools:** Git, Figma, Docker, Bash, Linux, VS Code
+![Toxzy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourhandle)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-red?logo=tryhackme)](https://tryhackme.com/p/yourname)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=githubpages)](https://yourdomain.com)
+- 💼 [LinkedIn]((https://www.linkedin.com/in/toluwani-adegboyega-5a6aa0367/))
+- 📧 Email: Toxzy112@gmail.com
 
 ---
 
-🎯 *Currently open to internships and freelance opportunities in cybersecurity and frontend development.*
-
+> *“Learning never exhausts the mind.” — Leonardo da Vinci*
