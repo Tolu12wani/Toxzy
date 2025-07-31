@@ -5,7 +5,7 @@
 
 **Cybersecurity Analyst | SOC | Frontend Developer | UI/UX Designer**
 
-[Banner](https://github.com/Tolu12wani/Toxzy/blob/main/WhatsApp%20Image%202025-06-19%20at%2000.01.23_e40b091d.jpg) 
+[Banner](https://github.com/Tolu12wani/Toxzy/blob/main/Premium%20Vector%20_%20Cyber%20security%20concept.jpg) 
 
 ---
 
