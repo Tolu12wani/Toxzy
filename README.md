@@ -2,14 +2,14 @@
   <img src="https://github.com/Tolu12wani/Toxzy/blob/main/WhatsApp%20Image%202025-06-19%20at%2000.01.23_e40b091d.jpg" width="150" height="150" style="border-radius: 50%;"/>
 </p>
 
-<!-- Slim Banner -->
-<p align="center">
-  <img src="https://github.com/Tolu12wani/Toxzy/blob/main/Premium%20Vector%20_%20Cyber%20security%20concept.jpg" width="100%" height="150"/>
-</p>
 
 <h1 align="center">Hey 👋 I'm Toxzy</h1>
 
 <h3 align="center">Cybersecurity Analyst | SOC | Frontend Developer | UI/UX Designer</h3>
+<!-- Slim Banner -->
+<p align="center">
+  <img src="https://github.com/Tolu12wani/Toxzy/blob/main/Premium%20Vector%20_%20Cyber%20security%20concept.jpg" width="100%" height="300"/>
+</p>
 
 ---
 
