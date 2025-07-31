@@ -1,7 +1,7 @@
 
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://github.com/Tolu12wani/Toxzy/blob/main/Premium%20Vector%20_%20Cyber%20security%20concept.jpg" alt="Cybersecurity Banner" width="100%">
+  <img src="https://github.com/Tolu12wani/Toxzy/blob/main/Premium%20Vector%20_%20Cyber%20security%20concept.jpg" alt="Cybersecurity Banner" width="100%" height="300">
 </p>
 
 <!-- Circular Profile Picture -->
